@@ -4,10 +4,10 @@
 - Currently Computer Science @ UChicago 🐦
 - Chicago, IL 🗺️
 
-Connect with me:
-sjdoepker.github.io
-sjdoepker at uchicago.edu
-sjdoepker on LinkedIn
+Connect with me:  
+- <a href=sjdoepker@github.io>sjdoepker.github.io </a>  
+- email me at <a href=sjdoepker@uchicago.edu>sjdoepker@uchicago.edu</a>  
+- <a href=https://www.linkedin.com/in/samantha-doepker/> sjdoepker</a> on LinkedIn  
 
 <!--
 **sjdoepker/sjdoepker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
