@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Sam Doepker!
+
+
+- Currently Computer Science @ UChicago 🐦
+- Chicago, IL 🗺️
+
+Connect with me:
+sjdoepker.github.io
+sjdoepker at uchicago.edu
+sjdoepker on LinkedIn
 
 <!--
 **sjdoepker/sjdoepker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
