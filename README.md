@@ -22,7 +22,7 @@ My skillset:
 
 ![Static Badge](https://img.shields.io/badge/Flask-intermediate-goldenrod) ![Static Badge](https://img.shields.io/badge/Numpy-intermediate-goldenrod) ![Static Badge](https://img.shields.io/badge/Pandas-intermediate-goldenrod)
 
-![Static Badge](https://img.shields.io/badge/Django-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/PostgreSQL-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/HTML-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/CSS-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/Matplotlib-familiar-e79a43)
+![Static Badge](https://img.shields.io/badge/Django-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/PostgreSQL-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/Docker-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/HTML/CSS-familiar-e79a43) ![Static Badge](https://img.shields.io/badge/Matplotlib-familiar-e79a43)
 
 
 
