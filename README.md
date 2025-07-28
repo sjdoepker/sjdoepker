@@ -1,8 +1,8 @@
 ### Hi, I'm Sam Doepker!
 
 
-- Currently Computer Science @ UChicago 🐦
-- Building <a href= https://www.insighted.org/>InsightEd</a> as CTO 💡
+- Computer Science @ UChicago 🐦
+- Site Reliability Engineering (SRE) Intern @ Cboe
 - Chicago, IL 🗺️
 
 You can find some of my various projects elsewhere on my Github profile. If you have any questions about them, let's chat! I'm always open to talk about building things and solutions to problems (or, if you just need someone to discuss your D&D game with, I'm also up to hear about it).
