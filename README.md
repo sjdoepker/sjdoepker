@@ -1,15 +1,15 @@
-### Hi, I'm Sam Doepker!
+### hey, i'm sam doepker
 
 
-- Computer Science @ UChicago 🐦
-- Site Reliability Engineering (SRE) Intern @ Cboe
-- Chicago, IL 🗺️
+- computer science @ UChicago 🐦
+- prev: Site Reliability Engineering (SRE) intern @ Cboe
+- chicago, IL 🗺️
 
-You can find some of my various projects elsewhere on my Github profile. If you have any questions about them, let's chat! I'm always open to talk about building things and solutions to problems (or, if you just need someone to discuss your D&D game with, I'm also up to hear about it).
+You can find some of my various projects elsewhere on my Github profile. If you have any questions about them, let's chat! I'm always open to talk about building things and solutions to problems.
 
 Connect with me!
 - My website: <a href=sjdoepker@github.io>sjdoepker.github.io </a> 
-- Email me at <a href=sjdoepker@uchicago.edu>sjdoepker@uchicago.edu</a>  
+- Email me at <a href=sjdoepker@gmail.com>sjdoepker@gmail.com</a>  
 - <a href=https://www.linkedin.com/in/sjdoepker/> sjdoepker</a> on LinkedIn  
 
 My skillset:
