@@ -8,7 +8,7 @@
 You can find some of my various projects elsewhere on my Github profile. If you have any questions about them, let's chat! I'm always open to talk about building things and solutions to problems.
 
 Connect with me!
-- My website: <a href=sjdoepker@github.io>sjdoepker.github.io </a> 
+- My website: <a href=sjdoepker.github.io>sjdoepker.github.io </a> 
 - Email me at <a href=sjdoepker@gmail.com>sjdoepker@gmail.com</a>  
 - <a href=https://www.linkedin.com/in/sjdoepker/> sjdoepker</a> on LinkedIn  
 
